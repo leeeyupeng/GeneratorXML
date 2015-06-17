@@ -1,0 +1,9 @@
+E:\users\administrator.user-ho7ku9ob20\documents\visual studio 2012\Projects\XML\GeneratorXML\bin\Debug\GeneratorXML.exe.config
+E:\users\administrator.user-ho7ku9ob20\documents\visual studio 2012\Projects\XML\GeneratorXML\bin\Debug\GeneratorXML.exe
+E:\users\administrator.user-ho7ku9ob20\documents\visual studio 2012\Projects\XML\GeneratorXML\bin\Debug\GeneratorXML.pdb
+E:\users\administrator.user-ho7ku9ob20\documents\visual studio 2012\Projects\XML\GeneratorXML\obj\Debug\GeneratorXML.csprojResolveAssemblyReference.cache
+E:\users\administrator.user-ho7ku9ob20\documents\visual studio 2012\Projects\XML\GeneratorXML\obj\Debug\GeneratorXML.exe
+E:\users\administrator.user-ho7ku9ob20\documents\visual studio 2012\Projects\XML\GeneratorXML\obj\Debug\GeneratorXML.pdb
+E:\users\administrator.user-ho7ku9ob20\documents\visual studio 2012\Projects\XML\Debug\GeneratorXML.exe.config
+E:\users\administrator.user-ho7ku9ob20\documents\visual studio 2012\Projects\XML\Debug\GeneratorXML.exe
+E:\users\administrator.user-ho7ku9ob20\documents\visual studio 2012\Projects\XML\Debug\GeneratorXML.pdb

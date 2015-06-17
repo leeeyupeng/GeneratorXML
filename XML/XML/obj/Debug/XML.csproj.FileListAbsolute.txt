@@ -1,0 +1,8 @@
+E:\users\administrator.user-ho7ku9ob20\documents\visual studio 2012\Projects\XML\XML\bin\Debug\XML.exe.config
+E:\users\administrator.user-ho7ku9ob20\documents\visual studio 2012\Projects\XML\XML\obj\Debug\XML.csprojResolveAssemblyReference.cache
+E:\users\administrator.user-ho7ku9ob20\documents\visual studio 2012\Projects\XML\XML\bin\Debug\XML.exe
+E:\users\administrator.user-ho7ku9ob20\documents\visual studio 2012\Projects\XML\XML\bin\Debug\XML.pdb
+E:\users\administrator.user-ho7ku9ob20\documents\visual studio 2012\Projects\XML\XML\bin\Debug\XMLLibrary.dll
+E:\users\administrator.user-ho7ku9ob20\documents\visual studio 2012\Projects\XML\XML\bin\Debug\XMLLibrary.pdb
+E:\users\administrator.user-ho7ku9ob20\documents\visual studio 2012\Projects\XML\XML\obj\Debug\XML.exe
+E:\users\administrator.user-ho7ku9ob20\documents\visual studio 2012\Projects\XML\XML\obj\Debug\XML.pdb

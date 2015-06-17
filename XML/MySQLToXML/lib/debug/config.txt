@@ -1,0 +1,5 @@
+serverIP = "localhost";
+serverPort = 3306;
+user = "cmge";
+password = "mw";
+dst = "E:\\users\\administrator.user-ho7ku9ob20\\documents\\visual studio 2012\\Projects\\XML\\Debug\\out";

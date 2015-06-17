@@ -1,0 +1,35 @@
+﻿生成启动时间为 2015/6/17 10:47:58。
+     1>项目“E:\users\administrator.user-ho7ku9ob20\documents\visual studio 2012\Projects\XML\MySQLToXML\MySQLToXML.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /D _ATL_STATIC_REGISTRY /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Program.cpp
+         Program.cpp
+     1>e:\users\administrator.user-ho7ku9ob20\documents\visual studio 2012\projects\xml\mysqltoxml\program.cpp(119): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : 参见“strcpy”的声明
+     1>e:\users\administrator.user-ho7ku9ob20\documents\visual studio 2012\projects\xml\mysqltoxml\program.cpp(135): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 参见“sprintf”的声明
+     1>e:\users\administrator.user-ho7ku9ob20\documents\visual studio 2012\projects\xml\mysqltoxml\program.cpp(155): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 参见“sprintf”的声明
+     1>e:\users\administrator.user-ho7ku9ob20\documents\visual studio 2012\projects\xml\mysqltoxml\program.cpp(172): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 参见“sprintf”的声明
+     1>e:\users\administrator.user-ho7ku9ob20\documents\visual studio 2012\projects\xml\mysqltoxml\program.cpp(208): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 参见“sprintf”的声明
+     1>e:\users\administrator.user-ho7ku9ob20\documents\visual studio 2012\projects\xml\mysqltoxml\program.cpp(210): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 参见“sprintf”的声明
+     1>e:\users\administrator.user-ho7ku9ob20\documents\visual studio 2012\projects\xml\mysqltoxml\program.cpp(222): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 参见“sprintf”的声明
+     1>e:\users\administrator.user-ho7ku9ob20\documents\visual studio 2012\projects\xml\mysqltoxml\program.cpp(240): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 参见“sprintf”的声明
+     1>e:\users\administrator.user-ho7ku9ob20\documents\visual studio 2012\projects\xml\mysqltoxml\program.cpp(259): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(357) : 参见“sprintf”的声明
+     1>e:\users\administrator.user-ho7ku9ob20\documents\visual studio 2012\projects\xml\mysqltoxml\program.cpp(286): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\users\administrator.user-ho7ku9ob20\documents\visual studio 2012\projects\xml\mysqltoxml\program.cpp(298): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : 参见“strcpy”的声明
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\users\administrator.user-ho7ku9ob20\documents\visual studio 2012\Projects\XML\Debug\MySQLToXML.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\users\administrator.user-ho7ku9ob20\documents\visual studio 2012\Projects\XML\Debug\MySQLToXML.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\users\administrator.user-ho7ku9ob20\documents\visual studio 2012\Projects\XML\Debug\MySQLToXML.lib" /MACHINE:X86 Debug\Program.obj
+         lib\opt\libmysql.lib
+         MySQLToXML.vcxproj -> E:\users\administrator.user-ho7ku9ob20\documents\visual studio 2012\Projects\XML\Debug\MySQLToXML.exe
+     1>已完成生成项目“E:\users\administrator.user-ho7ku9ob20\documents\visual studio 2012\Projects\XML\MySQLToXML\MySQLToXML.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.22
